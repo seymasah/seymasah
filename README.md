@@ -16,6 +16,7 @@ The resource presented here is product of many hours. We are thankful to Gökhan
 
 
 Veri setini bir makalede kullanıyorsanız, lütfen aşağıdaki makaleyi alıntılayın:
+
 if you use to the dataset in a paper, please cited paper as follow:
 
 Şahiner Yılmaz, Ş. , Özer, İ. & Gökçen, H. (2022). Twitter Platformundan Elde Edilen Türkçe Saldırgan Dil Derlemi . Mühendislik Bilimleri ve Araştırmaları Dergisi , 4 (2) , 304-316 . DOI: 10.46387/bjesr.1173434
